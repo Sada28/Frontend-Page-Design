@@ -1,12 +1,12 @@
-# Frontend-Page-Design :
+# Frontend-Page-Design 
 This is a landing page for a web design company called Bethany. The page is designed to showcase the company's services, portfolio, testimonials, and team. The page is clean, modern, and professional in design, utilizing a green and white color scheme.
 
-# 🛸 README :
+# 🛸 README 
 
-        Bethany Landing Page:
+Bethany Landing Page:
 This repository contains the source code for the Bethany landing page.
 
-# 🚀 Key Features :
+# 🚀 Key Features 
 
         1.Homepage: Provides a compelling introduction to Bethany, highlighting its services, team, and client testimonials.
         2.Services: Outlines Bethany's offerings, including website design, web development, product management, marketing, and graphic design.
@@ -16,4 +16,4 @@ This repository contains the source code for the Bethany landing page.
         6.Contact: Provides a clear call to action with contact information, a form for inquiries, and a map showcasing their location.
         7.Social Media: Promotes engagement and brand visibility with social media links at the bottom of the page.
 
-# 🌍 Live Demo Link :
+# 🌍 Live Demo Link 
