@@ -1,0 +1,230 @@
+/* Css For Nav bar */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+
+
+.navbar-brand{
+    background-color:#009966; 
+    text-align: center;
+    
+
+}
+
+button{
+   background-color: #009966;
+   padding: 10px;
+   color: white;
+   border-color: #009966;
+   border: 10px;
+   border-radius: 25px !important;
+   
+}
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+  }
+.nav-link:hover{
+    color:#009966 !important;
+}
+
+/* css for background */
+.bg{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("../img/hero-bg.jpg");
+    min-height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/* .centext{
+    position:absolute;
+    text-align: center;
+    margin-left:25%;
+    margin-top: 15%;
+
+} */
+.button2{
+    background-color: transparent;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-color: #009966;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 25px !important;
+    
+ }
+ /* logo slide */
+
+@keyframes scroll {
+    0%{
+        transform: translateX(0);
+       
+    }
+    100%{
+        transform: translateX(calc(-550px * 10));
+        -webkit-transform: translateX(calc(-550px * 10));
+        -moz-transform: translateX(calc(-550px * 10));
+        -ms-transform: translateX(calc(-550px * 10));
+        -o-transform: translateX(calc(-550px * 10));
+}
+}
+.slider{
+   
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    width: auto;
+    padding: 2em 1em;
+}
+.slider .slide-track{
+    animation: scroll 60s linear infinite !important;
+    -webkit-animation: scroll 60s linear infinite !important;
+    display: flex;
+    width: calc(250px * 14);
+}
+.slider .slide{
+    height: 100px;
+    width:250px;
+}
+.slide img{
+    width: 100px
+
+}
+
+/* Load count scroll */
+
+.counters{
+    padding: 3rem 2em;
+    background: #009966;
+    color: #fff;
+    text-align: center;
+
+}
+.counters>div{
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 4em 2em;
+}
+
+.counter{
+    position: relative;
+}
+.counter h1{
+    font-size:3em;
+}
+
+/* card  */
+.mybox{
+    background-color: #009966;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align:center;
+    margin-top: 10%;
+    
+}
+/* .card{
+    width: 100%;
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin: 15px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+} */
+.card-content{
+    padding: 16px;
+}
+
+
+
+
+/*background image container with button and text */
+
+.bg2{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("../img/cta-bg.jpg");
+    min-height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 3%;
+}
+
+/* cards */
+.line{
+    position: relative !important;
+}
+.line::after{
+    content: " ";
+    position: absolute !important;
+    display: block;
+    bottom: -40%;
+    width: 10%;
+    height: 2px;
+    background-color:  #009966 !important;
+    block-size: 5px;
+}
+
+
+/* portfolio */
+
+.smallbtn:hover{
+    background-color: #009966;
+
+}
+/* testimonial */
+
+.imgtest{
+    border-radius: 50%;
+    width: 30%;
+    margin-left: 35%;
+}
+
+
+/* Team  */
+
+.imgteam{
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+
+/* Footer */
+
+
+.bgcol
+{
+    background-color: rgb(246,246,246)!important;
+ 
+   
+}
+
+.fback{
+    background-color: rgb(226,226,226)!important;
+}
+
+.social{
+    padding-right: 10px;
+}
+
+.card{
+    border-radius: 20%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    -o-border-radius: 20%;
+}
+
