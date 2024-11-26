@@ -3,7 +3,7 @@ This is a landing page for a web design company called Bethany. The page is desi
 
 # 🛸 README 
 
-Bethany Landing Page:
+Bethany Landing Page :- 
 This repository contains the source code for the Bethany landing page.
 
 # 🚀 Key Features 
