@@ -1,3 +1,5 @@
+
+
 # Frontend-Page-Design 
 This is a landing page for a web design company called Bethany. The page is designed to showcase the company's services, portfolio, testimonials, and team. The page is clean, modern, and professional in design, utilizing a green and white color scheme.
 
@@ -16,5 +18,10 @@ This repository contains the source code for the Bethany landing page.
         6.Contact: Provides a clear call to action with contact information, a form for inquiries, and a map showcasing their location.
         7.Social Media: Promotes engagement and brand visibility with social media links at the bottom of the page.
 
+# Preview 
+![Template](https://github.com/user-attachments/assets/4f04c305-e60c-4839-be95-cd0426e48369)
+
 # 🌍 Live Demo Link 
  https://sada28.github.io/Frontend-Page-Design/
+ 
+
