@@ -18,10 +18,13 @@ This repository contains the source code for the Bethany landing page.
         6.Contact: Provides a clear call to action with contact information, a form for inquiries, and a map showcasing their location.
         7.Social Media: Promotes engagement and brand visibility with social media links at the bottom of the page.
 
-# Preview 
-![Template](https://github.com/user-attachments/assets/4f04c305-e60c-4839-be95-cd0426e48369)
+# Preview Image
+![Screenshot_19-12-2024_03446_](https://github.com/user-attachments/assets/9155aaea-553e-4577-9bab-31f49522f995)
+# Preview Video
 
-# 🌍 Live Demo Link 
- https://sada28.github.io/Frontend-Page-Design/
+
+ # 🌍 Live Demo Link
+ 
+
  
 
