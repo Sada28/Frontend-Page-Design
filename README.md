@@ -19,9 +19,11 @@ This repository contains the source code for the Bethany landing page.
         7.Social Media: Promotes engagement and brand visibility with social media links at the bottom of the page.
 
 # Preview Image
-![Screenshot_19-12-2024_03446_](https://github.com/user-attachments/assets/9155aaea-553e-4577-9bab-31f49522f995)
+![Screenshot_19-12-2024_03446_](https://github.com/user-attachments/assets/17b4c495-f798-4b33-8dcf-8bb1c5daae28)
+
 # Preview Video
 
+https://github.com/user-attachments/assets/b5851e5a-875d-4d86-be03-7c860deb05fd
 
  # 🌍 Live Demo Link
  
